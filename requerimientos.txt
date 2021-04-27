@@ -1,0 +1,16 @@
+Se requiere la creación de una página web para una pizzeria.
+
+-Menu de navegacion en la parte superior.
+-Nombre o logo de la empresa ubicado en la cabecera de la pagina.
+-Incluir propuesta de negocio y telefono en la parte superior.
+-Pagina principal con carrusel
+-Deben existir categorias de producto:
+    *Premium
+    *Vegetariana
+    *Sabores del Mundo
+-Ficha de pizza por categorias:
+    *Imagen de la pizza optimizada para web
+    *Listado de Ingredientes
+    *Valor Nutricional
+    *Precio
+-Pie de pagina con datos de contacto.
